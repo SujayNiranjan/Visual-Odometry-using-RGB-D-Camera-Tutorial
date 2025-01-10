@@ -166,6 +166,7 @@ These mathematical models and their code implementations are foundational to com
 
 According to the exercise, we must edit the MyAlgorithm.py file and insert the algorithm logic into it.
 
+```python
 import threading
 import time
 import math
